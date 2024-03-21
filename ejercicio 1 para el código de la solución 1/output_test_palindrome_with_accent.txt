@@ -1,0 +1,3 @@
+# Output de la prueba unitaria test_palindrome_with_accent
+# Resultado esperado es: True
+True

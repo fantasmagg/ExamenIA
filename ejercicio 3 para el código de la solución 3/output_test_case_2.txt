@@ -1,0 +1,3 @@
+# Output de la prueba unitaria test_case_2
+# Resultado esperado: 3
+3

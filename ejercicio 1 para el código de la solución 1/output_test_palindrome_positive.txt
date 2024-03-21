@@ -1,0 +1,3 @@
+# Output de la prueba unitaria test_palindrome_positive
+# Resultado esperado: True (debido a que 'ANA' es un palindromo)
+True

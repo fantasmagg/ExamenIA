@@ -1,0 +1,3 @@
+# Output de la prueba unitaria test_calculate_points
+# Resultado esperado: [10, 8, 6, 5]
+[10, 8, 6, 5]

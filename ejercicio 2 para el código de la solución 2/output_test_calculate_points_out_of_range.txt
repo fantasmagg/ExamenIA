@@ -1,0 +1,3 @@
+# Output de la prueba unitaria test_calculate_points_out_of_range
+# Resultado esperado: [10, 0]
+[10, 0]

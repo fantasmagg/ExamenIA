@@ -1,0 +1,3 @@
+# Output de la prueba unitaria test_determine_champion_tie
+# Resultado esperado:[1, 2]
+[1, 2]

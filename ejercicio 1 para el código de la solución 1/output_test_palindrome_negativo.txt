@@ -1,0 +1,3 @@
+# Output de la prueba unitaria test_palindrome_negatio
+# Resultado esperado es: False, ya que 'hola mundo' no es palindromo
+False
